@@ -15,6 +15,18 @@ All data, code, and results are provided to ensure full transparency and reprodu
 
 ---
 
+### 📈 Project Stages
+This repository supports the full TMU CIND820 Capstone process and includes all major stages:
+
+1. **Project Design** – Defined the research problem, scope, and objectives.  
+2. **Literature Review & Data Description** – Summarized prior studies and described the AI job dataset.  
+3. **Initial Results and Code** – Current milestone including data preparation, analysis, modeling, and initial findings.  
+4. **Final Report and Presentation** – Will integrate refined results, visualizations, and conclusions.
+
+Each stage builds on the previous one to provide a complete analysis of wage inequality in the global AI job market.
+
+---
+
 ### 📂 File List
 | File | Description |
 |------|--------------|
